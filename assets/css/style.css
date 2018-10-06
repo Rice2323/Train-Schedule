@@ -1,0 +1,39 @@
+.jumbotron{
+    background-image: url("../images/TrainEngine.jpg");
+    background-size: auto 100%;
+    text-align: center;
+    color: rgb(218, 248, 148);
+    font-size: 45px;
+    
+}
+
+body{
+    background-image: url("../images/TrainTracks.jpg");
+}
+
+.panel{
+    background-color: brown;
+    opacity: .75;
+    color: bisque;
+}
+
+.panel-heading{
+    color: rgb(255, 196, 0);
+}
+
+button{
+    background-color: rgb(255, 196, 0);
+}
+thead{
+color: antiquewhite;
+}
+
+.panel > .panel-heading {
+    background-image: none;
+    color: rgb(255, 196, 0);
+    color: white;
+}
+
+.panel-heading {
+    background-color: rgb(255, 196, 0)!important;
+}
